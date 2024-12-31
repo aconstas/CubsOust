@@ -2,18 +2,10 @@
 
 This repository contains the latest releases for Windows and macOS.
 
-## Latest Version: v0.0.1
-
-## Download Links
-
-- [Windows (64-bit)](https://google.com)
-- [macOS](https://google.com)
+## Latest Version: v1.0.0
 
 ## Release Notes
 See the CHANGELOG for details on each release.
-
-## Older Versions
-Previous versions can be found in the releases directory.
 
 ## License
 
